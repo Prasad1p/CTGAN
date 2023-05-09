@@ -1,0 +1,4 @@
+ctgan
+table_evaluaor
+pandas
+numpy
